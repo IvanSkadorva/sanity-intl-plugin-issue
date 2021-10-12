@@ -2,6 +2,7 @@ export default {
   name: 'category',
   title: 'Category',
   type: 'document',
+  i18n: true,
   fields: [
     {
       name: 'title',
